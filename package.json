@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "laravel-mix": "^6.0.49"
+  },
+  "name": "movie_api",
+  "version": "1.0.0",
+  "main": "webpack.mix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.56.1",
+    "sass-loader": "^12.1.0"
+  },
+  "description": ""
+}
